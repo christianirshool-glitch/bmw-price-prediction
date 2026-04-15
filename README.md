@@ -127,8 +127,12 @@ Tras la imputación se eliminan filas con más de un nulo y las fechas se normal
 ## 🚀 Instalación y uso
 
 ### Requisitos previos
-- Python 3.8 o superior
-- `pip`
+pandas==2.3.3
+numpy==2.3.4
+scikit-learn==1.7.2
+scipy==1.16.3
+matplotlib==3.10.7
+seaborn==0.13.2
 
 ### Pasos
 
