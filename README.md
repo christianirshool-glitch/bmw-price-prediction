@@ -159,7 +159,6 @@ bmw-price-prediction/
 ├── requirements.txt             # Dependencias del proyecto
 ├── LICENSE                      # Licencia de uso MIT
 └── README.md                    # Documentación del proyecto
-
 ---
 
 ## 👤 Autor
