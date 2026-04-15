@@ -125,21 +125,9 @@ Tras la imputación se eliminan filas con más de un nulo y las fechas se normal
 ## 🚀 Instalación y uso
 
 ### Requisitos previos
-pandas>=2.0.0
-
-numpy>=1.24.0
-
-scikit-learn>=1.3.0
-
-scipy>=1.10.0
-
-matplotlib>=3.7.0
-
-seaborn>=0.12.0
-
-jinja2
-
-jupyter
+### Requisitos previos
+* Python 3.8 o superior.
+* Todas las dependencias están listadas en el archivo `requirements.txt`.
 
 ### Pasos
 
