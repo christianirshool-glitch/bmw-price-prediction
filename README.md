@@ -129,28 +129,23 @@ Tras la imputación se eliminan filas con más de un nulo y las fechas se normal
 ### Requisitos previos
 * Todas las dependencias están listadas en el archivo [requirements.txt](requirements.txt).
 
-### Pasos
+### Pasos de ejecución
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/christianirshool-glitch/My-projects.git
-cd My-projects/proyecto_BMW
+git clone [https://github.com/christianirshool-glitch/bmw-price-prediction.git](https://github.com/christianirshool-glitch/bmw-price-prediction.git)
+cd bmw-price-prediction
 
 # 2. Crea y activa un entorno virtual (recomendado)
 python -m venv venv
-source venv/bin/activate       # Linux/macOS
-venv\Scripts\activate          # Windows
+source venv/bin/activate       # En Linux/macOS
+venv\Scripts\activate          # En Windows
 
-# 3. Instala las dependencias
-pip install pandas numpy scikit-learn matplotlib seaborn jinja2 jupyter
+# 3. Instala las dependencias oficiales
+pip install -r requirements.txt
 
-# 4. Coloca el dataset
-mkdir Datasets
-# Copia bmw_pricing_v3.csv dentro de Datasets/
-
-# 5. Lanza el notebook
-jupyter notebook bmw.ipynb
-```
+# 4. Lanza el entorno interactivo
+jupyter notebook "bmw (1).ipynb"
 
 > 📌 El notebook importa `utils.py`, que contiene la función `imputar_por_similitud`. Asegúrate de tener este archivo en el mismo directorio o adapta la lógica de imputación según tus necesidades.
 
