@@ -146,7 +146,7 @@ pip install -r requirements.txt
 
 # 4. Lanza el entorno interactivo
 jupyter notebook "bmw (1).ipynb"
-
+```
 > 📌 El notebook importa `utils.py`, que contiene la función `imputar_por_similitud`. Asegúrate de tener este archivo en el mismo directorio o adapta la lógica de imputación según tus necesidades.
 
 ---
