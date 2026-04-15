@@ -127,7 +127,7 @@ Tras la imputación se eliminan filas con más de un nulo y las fechas se normal
 ### Requisitos previos
 ### Requisitos previos
 * Python 3.8 o superior.
-* Todas las dependencias están listadas en el archivo `requirements.txt`.
+* Todas las dependencias están listadas en el archivo [requirements.txt](requirements.txt).
 
 ### Pasos
 
