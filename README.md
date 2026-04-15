@@ -54,8 +54,6 @@ El dataset `bmw_pricing_v3.csv` contiene aproximadamente **5.000 registros** con
 | `fecha_venta` | Fecha de venta |
 | `aire_acondicionado`, `gps`, … | Equipamiento (variables booleanas) |
 
-> ⚠️ El dataset no se incluye en este repositorio. Colócalo en `Datasets/` o modifica la ruta en el notebook.
-
 ---
 
 ## 🔧 Metodología
