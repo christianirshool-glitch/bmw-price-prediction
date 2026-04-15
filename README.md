@@ -183,5 +183,4 @@ Data Scientist · MSc in Data Science
 ---
 
 ## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT** — consulta el archivo [LICENSE](../LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
