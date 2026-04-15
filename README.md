@@ -153,14 +153,12 @@ jupyter notebook "bmw (1).ipynb"
 
 ## 📁 Estructura del proyecto
 
-```
-proyecto_BMW/
-├── Datasets/
-│   └── bmw_pricing_v3.csv       # Dataset (no incluido)
-├── bmw.ipynb                    # Notebook principal
-├── utils.py                     # Funciones auxiliares de imputación
-└── README.md
-```
+bmw-price-prediction/
+├── FinalCorrelacion.png         # Matriz de correlación resultante del EDA
+├── bmw (1).ipynb                # Notebook principal con todo el pipeline
+├── requirements.txt             # Dependencias del proyecto
+├── LICENSE                      # Licencia de uso MIT
+└── README.md                    # Documentación del proyecto
 
 ---
 
