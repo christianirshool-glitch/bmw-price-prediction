@@ -4,7 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-red?logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/Licencia-MIT-green)
+[![Dependencies](https://img.shields.io/badge/dependencies-up--to--date-brightgreen)](requirements.txt)
+[![License](https://img.shields.io/badge/Licencia-MIT-green)](LICENSE)
 
 Proyecto completo de ciencia de datos que explora los factores que determinan el precio de coches BMW de segunda mano. Incluye limpieza de datos, imputación inteligente por similitud, análisis exploratorio, ingeniería de características y modelado predictivo con Random Forest.
 
